@@ -1,3 +1,11 @@
+## Frameworks:
+
+- Flutter
+- SQLite for Local Data Storage
+- NodeJs with Express.Js for RESTful API
+- MongoDB for Database Integration
+
+
 ## Logic/Operations:
 
 ### Create:
